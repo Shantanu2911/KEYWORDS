@@ -327,4 +327,4 @@ TUN can tunnel data packets of varied nature, including:
 - Access standard pod networking and storage
 - Manage VMs using standard Kubernetes tools such as kubectl
 - Run full virtual machines on Kubernetes alongside regular containers
-67. **Libvirt** - libvirt is an open-source API, daemon and management tool for managing platform virtualization.[3] It can be used to manage KVM, Xen, VMware ESXi, QEMU and other virtualization technologies.
+67. **Libvirt** - libvirt is an open-source API, daemon and management tool for managing platform virtualization. It can be used to manage KVM, Xen, VMware ESXi, QEMU and other virtualization technologies.
